@@ -1,0 +1,8 @@
+M102
+M200
+work
+.nextflow.*
+.nextflow/
+*.html
+*.tsv
+*.tab
